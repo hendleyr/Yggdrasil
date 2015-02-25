@@ -1,0 +1,30 @@
+﻿<RecentFiles>
+  <RecentFiles>
+    <File id="F776C169-5241-AB82-93DA-21D9960A61E6/d:Assets/d:Planner/d:Scopes/f:CubeProductionScope.cs" caret="345" fromTop="12" />
+    <File id="F776C169-5241-AB82-93DA-21D9960A61E6/d:Assets/d:Planner/d:Scopes/f:ProductionScope.cs" caret="91" fromTop="4" />
+    <File id="F776C169-5241-AB82-93DA-21D9960A61E6/d:Assets/d:Planner/d:Productions/f:IRenderableProduction.cs" caret="433" fromTop="16" />
+    <File id="F776C169-5241-AB82-93DA-21D9960A61E6/d:Assets/d:Planner/d:Productions/f:CaseProduction.cs" caret="200" fromTop="8" />
+    <File id="F776C169-5241-AB82-93DA-21D9960A61E6/d:Assets/d:Planner/d:Productions/f:DivisorProduction.cs" caret="349" fromTop="12" />
+    <File id="F776C169-5241-AB82-93DA-21D9960A61E6/d:Assets/d:Planner/d:Productions/f:DivideProduction.cs" caret="1093" fromTop="17" />
+    <File id="F776C169-5241-AB82-93DA-21D9960A61E6/d:Assets/d:Planner/d:Productions/f:TerminalProduction.cs" caret="1436" fromTop="31" />
+    <File id="F776C169-5241-AB82-93DA-21D9960A61E6/d:Assets/d:Planner/d:Productions/f:RepeatProduction.cs" caret="100" fromTop="4" />
+    <File id="F776C169-5241-AB82-93DA-21D9960A61E6/d:Assets/d:Planner/d:Productions/f:SelectProduction.cs" caret="488" fromTop="16" />
+    <File id="F776C169-5241-AB82-93DA-21D9960A61E6/d:Assets/d:Planner/d:Productions/f:RegistrarProduction.cs" caret="5500" fromTop="18" />
+    <File id="F776C169-5241-AB82-93DA-21D9960A61E6/d:Assets/d:Planner/d:Productions/f:ModuleProduction.cs" caret="1371" fromTop="32" />
+    <File id="F776C169-5241-AB82-93DA-21D9960A61E6/d:Assets/d:Planner/d:Productions/f:SwitchProduction.cs" caret="1135" fromTop="32" />
+    <File id="F776C169-5241-AB82-93DA-21D9960A61E6/d:Assets/d:Planner/f:Planner.cs" caret="1582" fromTop="11" />
+  </RecentFiles>
+  <RecentEdits>
+    <File id="F776C169-5241-AB82-93DA-21D9960A61E6/d:Assets/d:Planner/d:Productions/f:CaseProduction.cs" caret="172" fromTop="7" />
+    <File id="F776C169-5241-AB82-93DA-21D9960A61E6/d:Assets/d:Planner/d:Productions/f:IRenderableProduction.cs" caret="226" fromTop="8" />
+    <File id="F776C169-5241-AB82-93DA-21D9960A61E6/d:Assets/d:Planner/d:Productions/f:DivisorProduction.cs" caret="241" fromTop="8" />
+    <File id="F776C169-5241-AB82-93DA-21D9960A61E6/d:Assets/d:Planner/d:Productions/f:RepeatProduction.cs" caret="1471" fromTop="37" />
+    <File id="F776C169-5241-AB82-93DA-21D9960A61E6/d:Assets/d:Planner/d:Productions/f:DivideProduction.cs" caret="1059" fromTop="20" />
+    <File id="F776C169-5241-AB82-93DA-21D9960A61E6/d:Assets/d:Planner/d:Productions/f:SwitchProduction.cs" caret="1319" fromTop="36" />
+    <File id="F776C169-5241-AB82-93DA-21D9960A61E6/d:Assets/d:Planner/d:Productions/f:TerminalProduction.cs" caret="1619" fromTop="28" />
+    <File id="F776C169-5241-AB82-93DA-21D9960A61E6/d:Assets/d:Planner/d:Productions/f:SelectProduction.cs" caret="652" fromTop="10" />
+    <File id="F776C169-5241-AB82-93DA-21D9960A61E6/d:Assets/d:Planner/d:Productions/f:RegistrarProduction.cs" caret="5700" fromTop="23" />
+    <File id="F776C169-5241-AB82-93DA-21D9960A61E6/d:Assets/d:Planner/d:Productions/f:ModuleProduction.cs" caret="1605" fromTop="31" />
+    <File id="F776C169-5241-AB82-93DA-21D9960A61E6/d:Assets/d:Planner/f:Planner.cs" caret="2040" fromTop="24" />
+  </RecentEdits>
+</RecentFiles>

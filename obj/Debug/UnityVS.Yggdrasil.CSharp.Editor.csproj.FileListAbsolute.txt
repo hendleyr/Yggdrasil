@@ -1,0 +1,15 @@
+C:\Users\Monte Carlo\Documents\Yggdrasil\Temp\UnityVS_bin\Debug\Assembly-CSharp-Editor.dll
+C:\Users\Monte Carlo\Documents\Yggdrasil\Temp\UnityVS_bin\Debug\Assembly-CSharp-Editor.pdb
+C:\Users\Monte Carlo\Documents\Yggdrasil\Temp\UnityVS_bin\Debug\SyntaxTree.VisualStudio.Unity.Bridge.dll
+C:\Users\Monte Carlo\Documents\Yggdrasil\Temp\UnityVS_bin\Debug\SyntaxTree.VisualStudio.Unity.Messaging.dll
+C:\Users\Monte Carlo\Documents\Yggdrasil\Temp\UnityVS_bin\Debug\UnityEditor.dll
+C:\Users\Monte Carlo\Documents\Yggdrasil\Temp\UnityVS_bin\Debug\UnityEditor.Graphs.dll
+C:\Users\Monte Carlo\Documents\Yggdrasil\Temp\UnityVS_bin\Debug\UnityEngine.dll
+C:\Users\Monte Carlo\Documents\Yggdrasil\Temp\UnityVS_bin\Debug\UnityVS.VersionSpecific.dll
+C:\Users\Monte Carlo\Documents\Yggdrasil\Temp\UnityVS_bin\Debug\Assembly-CSharp.pdb
+C:\Users\Monte Carlo\Documents\Yggdrasil\Temp\UnityVS_bin\Debug\UnityEngine.xml
+C:\Users\Monte Carlo\Documents\Yggdrasil\Temp\UnityVS_bin\Debug\UnityEditor.xml
+C:\Users\Monte Carlo\Documents\Yggdrasil\Temp\UnityVS_bin\Debug\UnityEditor.Graphs.xml
+C:\Users\Monte Carlo\Documents\Yggdrasil\obj\Debug\UnityVS.Yggdrasil.CSharp.Editor.csprojResolveAssemblyReference.cache
+C:\Users\Monte Carlo\Documents\Yggdrasil\obj\Debug\Assembly-CSharp-Editor.dll
+C:\Users\Monte Carlo\Documents\Yggdrasil\obj\Debug\Assembly-CSharp-Editor.pdb

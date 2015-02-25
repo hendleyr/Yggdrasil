@@ -1,0 +1,4 @@
+<Modules>
+  <Module PersistentId="F776C169-5241-AB82-93DA-21D9960A61E6" ModuleId="UnityVS.Yggdrasil.CSharp" />
+  <Module PersistentId="UnityEngine, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" ModuleId="UnityEngine" />
+</Modules>

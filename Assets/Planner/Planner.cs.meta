@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: ed0548245e71f634b9496cb31c18827c
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - TerminalArch: {fileID: 100002, guid: a6f7e99239fae9b458388e577c7df6ed, type: 3}
+  - WoodPlank: {fileID: 100002, guid: fe8453fddb9232d4cb94d04456378316, type: 3}
+  - TerminalWall: {fileID: 100002, guid: 0a2d29cb4b8619446bf0d9b70b5b014a, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
